@@ -36,7 +36,11 @@ It needs to be run from the root directory,
 Running without parameters will show the command line help.  They are
 generally self-explanatory.  Running with the parameters will show no output but will generate a new boards.txt file (and a backup boards.txt.orig).
 
-The core root directory varies depending on your development environment.  In Windows, core root is found under your home directory; for Arduino it is in AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2\ for PlatformIO it is in .platformio\packages\framework-arduinoespressif8266.
+The core root directory varies depending on your development environment.  
+core root is found under your home directory; for Arduino it is in 
+    AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.2\\ 
+for PlatformIO it is in 
+    .platformio\\packages\\framework-arduinoespressif8266.
 
 
 What can I do with it ?
